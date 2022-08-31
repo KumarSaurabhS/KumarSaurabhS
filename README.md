@@ -3,7 +3,7 @@
 
 <strong>👨‍💻About me</strong>   
 
-- 🔭 I’m currently working on my Python.
+- 🔭 I’m currently working on my Java.
 - 🌱 I’m currently learning DSA.
 - 👯 I’m looking to jump into advance compititive programming.
 - 🤔 I’m looking for help with tensor flow OCR and trainning tess data.
